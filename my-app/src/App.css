@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+.blank {
+  color: red;
+ font-weight: 20px ;
+ font-size: 40px
+}
+
